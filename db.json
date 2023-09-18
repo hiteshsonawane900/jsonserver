@@ -1,5 +1,5 @@
 {
-    "Products": [
+    "Product": [
       {
         "id": 1,
         "ProductTitle":"PIPE, FITTINGS & VALVES",
@@ -1189,6 +1189,163 @@
           ]
         }]
       }
-    ]
-    
+    ],
+    "Products": [
+      {
+        "_id": "64a27e6b362d5f1117f4c681",
+        "name": "Turbo Levo SL Comp Carbon",
+        "rating": 3.5,
+        "price": 8000,
+        "type": "Bike",
+        "category": "Mountain",
+        "images": [
+          "https://assets.specialized.com/i/specialized/96822-52_LEVO-SL-COMP-CARBON-BLZ-BLK-SILDST_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+          "https://assets.specialized.com/i/specialized/96822-53_LEVO-SL-COMP-CARBON-DOP-SND-SILDST_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto"
+        ],
+        "color": [
+          "orange",
+          "black"
+        ],
+        "discount": 1
+      },
+      {
+        "_id": "64a27e6b362d5f1117f4c682",
+        "name": "S-Works Epic",
+        "rating": 4.6,
+        "price": 12000,
+        "type": "Bike",
+        "category": "Mountain",
+        "images": [
+          "https://assets.specialized.com/i/specialized/90323-01_EPIC-SW-REDTNT-BLKTNT-FLKSIL_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+          "https://assets.specialized.com/i/specialized/90323-00_EPIC-SW-PRPTNT-CHRM_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto"
+        ],
+        "color": [
+          "red",
+          "black"
+        ],
+        "discount": 2
+      },
+      {
+        "_id": "64a27e6b362d5f1117f4c683",
+        "name": "S-Works Epic EVO LTD",
+        "rating": 4.5,
+        "price": 11000,
+        "type": "Bike",
+        "category": "Mountain",
+        "images": [
+          "https://assets.specialized.com/i/specialized/94823-02_EPIC-EVO-SW-LTD-METOBSD-BRSHCP_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto"
+        ],
+        "color": [
+          "black"
+        ],
+        "discount": 3
+      },
+      {
+        "_id": "64a27e6b362d5f1117f4c684",
+        "name": "S-Works Stumpjumper",
+        "rating": 4.2,
+        "price": 11000,
+        "type": "Bike",
+        "category": "Mountain",
+        "images": [
+          "https://assets.specialized.com/i/specialized/93323-00_SJ-SW-BLKPRL-BRSHBLKCP_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto"
+        ],
+        "color": [
+          "silver"
+        ],
+        "discount": 4
+      },
+      {
+        "_id": "64a27e6b362d5f1117f4c685",
+        "name": "Turbo Levo Comp Alloy",
+        "rating": 4,
+        "price": 7500,
+        "type": "Bike",
+        "category": "Mountain",
+        "images": [
+          "https://assets.specialized.com/i/specialized/95222-52_LEVO-COMP-ALLOY-FLORED-BLK_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+          "https://assets.specialized.com/i/specialized/95222-50_LEVO-COMP-ALLOY-BLK-DOVGRY-BLK_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+          "https://assets.specialized.com/i/specialized/95222-51_LEVO-COMP-ALLOY-CBLT-LTSIL_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+          "https://assets.specialized.com/i/specialized/95222-53_LEVO-COMP-ALLOY-SGEGRN-CLGRY-BLK_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto"
+        ],
+        "color": [
+          "red",
+          "black",
+          "blue",
+          "grey"
+        ],
+        "discount": 5
+      },
+      {
+        "_id": "64a27e6b362d5f1117f4c686",
+        "name": "Rockhopper Elite 29",
+        "rating": 3.2,
+        "price": 1100,
+        "type": "Bike",
+        "category": "Mountain",
+        "images": [
+          "https://assets.specialized.com/i/specialized/91520-44_ROCKHOPPER-ELITE-29-REDWD-SPR_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+          "https://assets.specialized.com/i/specialized/91520-43_ROCKHOPPER-ELITE-29-BLSH-TARBLK_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+          "https://assets.specialized.com/i/specialized/91520-45_ROCKHOPPER-ELITE-29-CSTBLK-BLK_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto"
+        ],
+        "color": [
+          "red",
+          "pink",
+          "grey"
+        ],
+        "discount": 6
+      },
+      {
+        "_id": "64a27e6b362d5f1117f4c687",
+        "name": "Turbo Levo Expert",
+        "rating": 3.9,
+        "price": 10000,
+        "type": "Bike",
+        "category": "Mountain",
+        "images": [
+          "https://assets.specialized.com/i/specialized/95223-31_LEVO-EXPERT-CARBON-HRVGLD-OBSD_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+          "https://assets.specialized.com/i/specialized/95223-30_LEVO-EXPERT-CARBON-OBSD-TPE_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto"
+        ],
+        "color": [
+          "yellow",
+          "black"
+        ],
+        "discount": 7
+      },
+      {
+        "_id": "64a27e6b362d5f1117f4c688",
+        "name": "Rockhopper Elite 29",
+        "rating": 3,
+        "price": 1150,
+        "type": "Bike",
+        "category": "Mountain",
+        "images": [
+          "https://assets.specialized.com/i/specialized/91522-43_ROCKHOPPER-ELITE-29-ARCTBLU-BLK_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+          "https://assets.specialized.com/i/specialized/91522-45_ROCKHOPPER-ELITE-29-DOP-SND_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto",
+          "https://assets.specialized.com/i/specialized/91522-44_ROCKHOPPER-ELITE-29-SGEGRN-OAKGRN_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto"
+        ],
+        "color": [
+          "blue",
+          "grey",
+          "black"
+        ],
+        "discount": 8
+      },
+      {
+        "_id": "64a27e6b362d5f1117f4c689",
+        "name": "Stumpjumper Pro",
+        "rating": 3.5,
+        "price": 8050,
+        "type": "Bike",
+        "category": "Mountain",
+        "images": [
+          "https://assets.specialized.com/i/specialized/93323-10_SJ-PRO-RSTDRED-DOVGRY_HERO?bg=rgb(241,241,241)&w=1600&h=900&fmt=auto"
+        ],
+        "color": [
+          "pink"
+        ],
+        "discount": 9
+      }
+    ],
+    "totalPages": 5
   }
